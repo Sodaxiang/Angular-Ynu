@@ -1,0 +1,26 @@
+p{
+  margin: 0px;
+  float: left;
+}
+.newstitle{
+  margin: 0px auto;
+  width:  1200px;
+  height: 30px;
+  /*background-color: #00c853;*/
+}
+.newscontent1{
+  margin: 0px auto;
+  width:  1200px;
+  height:210px;
+  /*background-color: #bf88c8;*/
+}
+.newscontent2{
+  margin: 0px auto;
+  width:  1200px;
+  height:248px;
+  /*background-color: #bf88c8;*/
+}
+hr{
+  margin:0 auto;
+  width: 1200px;
+}

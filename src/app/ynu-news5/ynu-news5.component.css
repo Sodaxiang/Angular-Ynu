@@ -1,0 +1,46 @@
+.news{
+  width: 340px;
+  height: 248px;
+  /*background-color: #7c4dff;*/
+  margin-top: 8px;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+li{
+  list-style-type: none;
+  padding: 0;
+  padding: 0;
+ height: 60px;
+}
+.span1{
+  margin-top: 10px;
+  width: 52px;
+  text-align: center;
+  float: left;
+  color: #0f60ce;
+  font-size: 15px;
+  font-family: "微软雅黑";
+}
+mat-icon {
+  color: lightcoral;
+  margin-top:14px;
+  font-size: 18px;
+  /*margin-left: 5px;*/
+}
+.span2{
+  width: 228px;
+  height: 50px;
+  border-bottom: 1px solid #e4e4e4;
+  font-size: 14px;
+  line-height: 22px;
+  float: right;
+  font-family: "微软雅黑";
+}
+/*.span2{*/
+  /*font-size: 10px;*/
+  /*margin-top:20px;*/
+  /*color: red;*/
+/*}*/

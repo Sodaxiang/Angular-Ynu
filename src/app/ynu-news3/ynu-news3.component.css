@@ -1,0 +1,27 @@
+.news{
+  width: 290px;
+  height: 248px;
+  /*background-color: #7c4dff;*/
+  margin-top: 8px;
+}
+
+.news1{
+  width: 290px;
+  height: 62px;
+  margin-top: 0;
+}
+.span1{
+  float: left;
+}
+.span2{
+  width: 203px;
+  float: left;
+  border-bottom: 1px solid #e4e4e4;
+  font-size: 14px;
+  line-height: 22px;
+  color: #333333;
+  font-family: "微软雅黑"
+}
+hr{
+  margin:0;
+}

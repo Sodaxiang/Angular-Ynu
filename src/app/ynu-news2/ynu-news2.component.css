@@ -1,0 +1,42 @@
+.news{
+  margin-top: 15px;
+  width:335px;
+  height:190px;
+  /*background-color: #4ef4ff;*/
+}
+.span1{
+  float: left;
+}
+.spans{
+  float: left;
+}
+.span2{
+  width: 140px;
+  height: 76px;
+  float: left;
+}
+
+h3{
+  margin: 0px;
+  font-size: 15px;
+  font-family: "微软雅黑";
+  color: #000;
+  font-weight: normal;
+  line-height: 24px;
+}
+mat-icon{
+  margin-top: 10px;
+  font-size: 16px;
+  color: #6e6e6e;
+}
+.time{
+  margin-left: 0px;
+  color: #6e6e6e;
+  font-size: 13px;
+  font-family: "微软雅黑";
+}
+.news1{
+  width: 310px;
+  height: 95px;
+}
+
